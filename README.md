@@ -24,7 +24,7 @@
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/rimney" alt="rimney's 42 stats" /></a>
 
 ### languages i use  
 <div align="center">  
