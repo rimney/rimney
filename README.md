@@ -6,13 +6,13 @@
 ### <div align="center">I'm riyad , a 1337 programming student  👨‍💻 rising ios developer 🚀</div>  
   
 
-- 🔭 I’m currently working on [42_minishell](https://github.com/rimney/42_minishell)  
+- 🔭 I’m currently working on [C++ MODULES](https://github.com/rimney/CPP_MODULES)  
   
 
 - 🌱 I’m currently learning swift and c++  
   
 
-- ❓ Ask me about anything related to C posix, Unix , mobile development   
+- ❓ Ask me about anything related to C posix, Unix , mobile development,    
   
 
 - ⚡ Fun fact: I use tabs over spaces and i don't drink much coffee  
