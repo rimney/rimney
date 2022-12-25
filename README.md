@@ -6,7 +6,7 @@
 ### <div align="center">I'm riyad , a 1337 programming student  👨‍💻 rising ios developer 🚀</div>  
   
 
-- 🔭 I’m currently working on [C++ MODULES](https://github.com/rimney/CPP_MODULES)  
+- 🔭 I’m currently working on [Cub3d](https://github.com/rimney/Cub3d)  
   
 
 - 🌱 I’m currently learning swift and c++  
