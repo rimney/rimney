@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Riyad Mney
 ==================================================================================================================================
 
-FullStack JS Developer
+Software Engineer
 ----------------------
 
-Fullstack JavaScript Developer with expertise in building cutting-edge web applications. My skills span both the frontend and backend, allowing me to create seamless and user-friendly experiences.
+Software Engineer with expertise in building cutting-edge web applications. My skills span both the frontend, allowing me to create seamless and user-friendly experiences.
 
 * 🌍  I'm based in Morrocco , Ben Guerrir
 * ✉️  You can contact me at [rimney13@gmail.com](mailto:rimney13@gmail.com)
