@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 ----------------------
 
-Software Engineer with expertise in building cutting-edge web applications. My skills span both the frontend, allowing me to create seamless and user-friendly experiences.
+Software Engineering Intern At Leyton with expertise in building cutting-edge web applications. My skills span both the frontend, allowing me to create seamless and user-friendly experiences.
 
 * 🌍  I'm based in Morrocco , Ben Guerrir
-* ✉️  You can contact me at [rimney13@gmail.com](mailto:rimney13@gmail.com)
+* ✉️  You can contact me at [rimney13@gmail.com](mailto:rmney@leyton.com)
 * 🧠  I'm learning advanced Nest and VueJs
 
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/rimney" alt="rimney's 42 stats" /></a>
